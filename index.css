@@ -1,0 +1,22 @@
+.bg-container {
+    background-image: linear-gradient(to bottom, #db7fb6, #Ba1236);
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    padding-top: 40px;
+    color: white;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.password-text {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+.error-msg{
+    color: blue;
+}
